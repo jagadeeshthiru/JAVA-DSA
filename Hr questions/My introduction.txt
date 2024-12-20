@@ -1,0 +1,32 @@
+"Good morning, and thank you for giving me this opportunity to introduce myself.
+I’m Jagadeesh, and I recently graduated with a B-tech in mechanical engineering from Gayatri vidya parishad college of engineering(A).
+
+During my academic journey, I developed a strong foundation in software development ,particularly in programming languages like Java ,SQL ,HTML ,CSS ,java script.
+
+
+I have done a final-year project on pneumatic sheet metal cutting machine and , I developed a weather report website and proto folio website by using (front end).
+
+During this project, I have  worked with a team , which allowed me to sharpen my coding, debugging, and problem-solving skills.
+
+I am a quick learner and passionate about technology. I enjoy solving complex problems and always look for opportunities to enhance my skills. I’m also a strong team player with good communication skills, which I’ve demonstrated by collaborating with my team on various projects and assignments.
+
+My Short term goal is to get placed in a good reupdated company like [company name]  where I could get a chance to  enhance my skills and apply my knowledge.
+
+In the long run, I aim to continue improving my technical skills and take on more responsibilities within the company, eventually growing into a more senior development role.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

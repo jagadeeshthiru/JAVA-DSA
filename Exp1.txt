@@ -1,0 +1,18 @@
+class Exp1
+{
+  public void mul(int x,inty)
+    {
+     System.ou.pintln("Hello method");
+
+      System.ou.pintln(x/y);
+    }
+   public staic void main(String[]args)
+    {
+           System.ou.pintln("before the exception ");
+             Exp1 exp=new Exp1();
+             exp.mul(10,0);
+            System.ou.pintln("After the Exception");
+
+
+    }
+}

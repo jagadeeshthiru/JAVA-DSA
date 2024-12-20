@@ -1,0 +1,7 @@
+class HelloWorld {
+    public static void main(String[] args) {
+       char letter ='a';
+       char lter =letter-32;
+        System.out.println(lter);
+    }
+}

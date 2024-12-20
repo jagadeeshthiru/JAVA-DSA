@@ -1,0 +1,11 @@
+1)Pneumatic sheet metal cutting machine project?
+
+Ans:-A pneumatic sheet metal cutting machine is a project that utilizes pneumatic (air pressure) power to cut metal sheets efficiently.
+      key components like
+      1.Compressor 2.cylinder 3.Cutting Blade 4.Control Valve 5.Frame and Workbench
+   The advantages of this project is 
+     1)Low-Cost Automation 2)require less energy  3)High Cutting Speed
+ It is mainly used to reducing the risk of fire or electrical hazards compared to other cutting systems.
+
+
+2)Weather report website?
